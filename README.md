@@ -14,4 +14,4 @@ Tools
 
 [Einmal-Link](https://message.jweiland.net)
 
-[virustotal](https://www.virustotal.com/gui/home/upload)
+[Virustotal](https://www.virustotal.com/gui/home/upload)
