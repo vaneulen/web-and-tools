@@ -4,6 +4,8 @@
 
 [Pasta.cf](https://pasta.cf)
 
+[Anonfile](https://anonfile.com)
+
 Tools
 ------
 [anonymouse](http://anonymouse.org)
