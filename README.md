@@ -6,6 +6,8 @@
 
 [Anonfile](https://anonfile.com)
 
+
+
 Tools
 ------
 [anonymouse](http://anonymouse.org)
@@ -14,4 +16,4 @@ Tools
 
 [Einmal-Link](https://message.jweiland.net)
 
-[Virustotal](https://www.virustotal.com/gui/home/upload)  `Check files for viruses`
+[current UV-Index (MUC)](https://uvi.bfs.de/Tagesgrafiken/EEr_Muenchen_today.png)  `UV-Index Munich`
