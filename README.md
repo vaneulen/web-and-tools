@@ -17,3 +17,5 @@ Tools
 [Einmal-Link](https://message.jweiland.net)
 
 [current UV-Index (MUC)](https://uvi.bfs.de/Tagesgrafiken/EEr_Muenchen_today.png)  `UV-Index Munich`
+
+[VirusTotal](https://www.virustotal.com/gui/home)
