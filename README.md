@@ -6,6 +6,8 @@
 
 [Anonfile](https://anonfile.com)
 
+[TRASH-MAIL](https://www.trash-mail.com/)
+
 
 
 Tools
