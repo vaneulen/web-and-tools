@@ -16,6 +16,8 @@ Tools
 
 [Einmal-Link](https://message.jweiland.net)
 
+[Wickr Me](https://wickr.com/)
+
 [VirusTotal](https://www.virustotal.com/gui/home)
 
 [protectedtext](https://www.protectedtext.com/)
