@@ -8,6 +8,8 @@
 
 [TRASH-MAIL](https://www.trash-mail.com/)
 
+[what3words](https://what3words.com/)
+
 
 
 Tools
