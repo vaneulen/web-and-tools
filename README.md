@@ -35,3 +35,5 @@ Tools
 [protectedtext](https://www.protectedtext.com/)
 
 [current UV-Index (MUC)](https://uvi.bfs.de/Tagesgrafiken/EEr_Muenchen_today.png)  `UV-Index Munich`
+
+[UV-Index-Info](https://anonfiles.com/ve3742M4o7/UV-INDEX_pdf)
