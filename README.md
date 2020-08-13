@@ -36,4 +36,4 @@ Tools
 
 [current UV-Index (MUC)](https://uvi.bfs.de/Tagesgrafiken/EEr_Muenchen_today.png)  `UV-Index Munich`
 
-[UV-Index-Info](https://anonfiles.com/ve3742M4o7/UV-INDEX_pdf)
+[UV-Index-Info](https://www.krebsliga.ch/beratung-unterstuetzung/infomaterial/fuer-kinder-und-jugendliche/fuer-jugendliche/-dl-/fileadmin/downloads/sheets/der-uv-index.pdf)
