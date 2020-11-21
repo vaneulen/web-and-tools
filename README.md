@@ -30,6 +30,8 @@
 
 Tools
 ------
+[GoFile](gofile.io)
+
 [anonymouse](http://anonymouse.org)
 
 [assbach](https://assbach.com/tools/)
