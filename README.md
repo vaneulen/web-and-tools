@@ -30,7 +30,7 @@
 
 Tools
 ------
-[GoFile](gofile.io)
+[GoFile](https://gofile.io)
 
 [anonymouse](http://anonymouse.org)
 
