@@ -27,6 +27,8 @@
 [Apple System Status](https://www.apple.com/support/systemstatus/)
 
 
+[Apple Shortcuts Apotheke finden (CovPass)](https://www.icloud.com/shortcuts/c8e809ddddc14d149f2dd61acdbef9aa)
+
 
 Tools
 ------
