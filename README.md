@@ -47,7 +47,7 @@ Tools 🧰
 
 [protectedtext](https://www.protectedtext.com/)
 
-[Shrib](https://shrib.com) `Online Note`
+[Shrib](https://shrib.com) `Online Note 🗒️`
 
 [TinyURL](https://tinyurl.com/app)
 
