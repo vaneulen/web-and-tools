@@ -49,6 +49,6 @@ Tools 🧰
 
 [Apple Shortcuts Apotheke finden (CovPass)](https://www.icloud.com/shortcuts/c8e809ddddc14d149f2dd61acdbef9aa)
 
-[current UV-Index (MUC)](https://uvi.bfs.de/Tagesgrafiken/EEr_Muenchen_today.png)  `UV-Index Munich`
+[current UV-Index](https://uvi.bfs.de/Tagesgrafiken/EEr_Muenchen_today.png)  `UV-Index Munich ☀️`
 
 [UV-Index-Info](https://www.krebsliga.ch/beratung-unterstuetzung/infomaterial/fuer-kinder-und-jugendliche/fuer-jugendliche/-dl-/fileadmin/downloads/sheets/der-uv-index.pdf)
