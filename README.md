@@ -1,4 +1,4 @@
-## Websites
+## Websites 🌎
 
 [BSI](https://bsi-fuer-buerger.de)
 
@@ -29,7 +29,7 @@
 [Apple System Status](https://www.apple.com/support/systemstatus/)
 
 
-Tools
+Tools 🧰
 ------
 [AES Crypto](https://aescrypto.com/)
 
