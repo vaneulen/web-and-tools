@@ -47,6 +47,8 @@ Tools 🧰
 
 [protectedtext](https://www.protectedtext.com/)
 
+[Shrib](https://shrib.com) `Online Note`
+
 [TinyURL](https://tinyurl.com/app)
 
 [Apple Shortcuts Apotheke finden (CovPass)](https://www.icloud.com/shortcuts/c8e809ddddc14d149f2dd61acdbef9aa)
