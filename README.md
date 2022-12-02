@@ -37,6 +37,8 @@ Tools 🧰
 
 [GoFile](https://gofile.io)
 
+[Snapdrop](https://snepdrop.net)
+
 [Datash](https://datash.co/)
 
 [anonymouse](http://anonymouse.org)
