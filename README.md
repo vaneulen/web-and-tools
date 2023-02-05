@@ -43,7 +43,7 @@ Tools 🧰
 
 [Snapdrop](https://snapdrop.net)
 
-[Datash](https://datash.co/)
+[Datash](https://datash.co/) `🔴`
 
 [anonymouse](http://anonymouse.org)
 
