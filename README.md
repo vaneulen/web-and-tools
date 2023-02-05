@@ -26,6 +26,10 @@
 
 [ProtonVPN](https://protonvpn.com)
 
+[WayBack Machine](https://archive.org)
+
+[archive.today](https://archive.is)
+
 [DDC](https://deweysearchde.pansoft.de/webdeweysearch/mainClasses.html)
 
 [Apple System Status ](https://www.apple.com/support/systemstatus/)
