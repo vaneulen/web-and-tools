@@ -10,7 +10,7 @@
 
 [what3words](https://what3words.com/)
 
-[neuzustellen.de von CCC](https://neuzustellen.de)
+[neuzustellen.de vom CCC](https://neuzustellen.de)
 
 [GC Tools](https://gc.de/)
 
